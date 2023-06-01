@@ -8,4 +8,4 @@ Senario - you are the General manager for the Sydney area at Airbnb. Your job is
 - Filtering data : WHERE 
 - Missing data: NULL values
 
-[Exercise Week 1 ](https://github.com/sgreenley/SQL-fundamentals/blob/main/Stuart_Greenley_Week_1_Project_SQLCC.ipynb)
+[colab file: Exercise Week 1  ](https://github.com/sgreenley/SQL-fundamentals/blob/main/Stuart_Greenley_Week_1_Project_SQLCC.ipynb)
